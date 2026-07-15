@@ -285,3 +285,10 @@ Thanks to all contributors who have helped make CommitPulse better!
 </a>
 
 <sub>View the [full contributor list →](https://github.com/JhaSourav07/commitpulse/graphs/contributors)</sub>
+
+## 🔍 Community Support
+
+Need help setting up CommitPulse? Follow these quick troubleshooting guidelines:
+* Verify you are running **Node.js v18** or higher on your local development machine.
+* Ensure your `.env.local` contains a valid personal `GITHUB_TOKEN` credential block.
+* Reach out directly in the official **GSSoC Slack channel** for real-time messaging support.
